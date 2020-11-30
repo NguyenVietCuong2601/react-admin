@@ -1,0 +1,35 @@
+{
+  "posts": [
+    {
+      "id": "2",
+      "title": "Post Two",
+      "body": "This is the post body",
+      "publishedAt": "10-01-2020"
+    },
+    {
+      "id": "3",
+      "title": "Post Three",
+      "body": "This is the post body",
+      "publishedAt": "10-01-2020"
+    },
+    {
+      "title": "Post Four",
+      "body": "This is post body",
+      "publishedAt": "10-01-2020",
+      "id": "8TNH89O"
+    },
+    {
+      "id": "1",
+      "title": "Post One",
+      "body": "this is the post body for post 1",
+      "publishedAt": "10-1-2020"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "name": "Viet Cuong Nguyen",
+      "email": "cuong@example.com"
+    }
+  ]
+}
